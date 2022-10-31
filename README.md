@@ -1,4 +1,4 @@
-# How to Group and Filter Items in the Angular ComboBox Component
+# Getting Started with the Angular Mention Component
 
 Learn how easily you can create and configure Syncfusion Angular Mention using the Angular CLI tool and Syncfusion ej2-angular-dropdowns package. This video also explains how to configure a few of the control’s basic features like adding multiple lists and templates.
 
